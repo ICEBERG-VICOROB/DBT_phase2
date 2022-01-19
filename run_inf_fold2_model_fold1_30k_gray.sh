@@ -1,0 +1,1 @@
+python inference_DBT-NMS2.py --input_csv ~/data/DBT2/file_paths_train_phase2_fold2.csv --base_path /mnt/mia_images/breast/DBTex2/ --model ./output/model_final_R_101_omidb_30k_dbt9k_f1.pth --config ./output/config_trained_R_101_10k.yaml --output_csv  ~/data/DBT2/results_train_fold2_model1_30k_gray --labels_csv  ~/data/DBT2/labels_train_fold2.csv --gray True
