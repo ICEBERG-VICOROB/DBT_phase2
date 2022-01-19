@@ -28,3 +28,6 @@ Inference of new images (validation provided in the web page)
 
 - inference_DBT_NMS_fpred.py
 Inference of new images using FP reduction step. 
+
+- run_inf_fold2_model_fold1_30k_gray.sh 
+Example for calling inference.
