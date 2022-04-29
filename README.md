@@ -31,3 +31,5 @@ Inference of new images using FP reduction step.
 
 - run_inf_fold2_model_fold1_30k_gray.sh 
 Example for calling inference.
+
+- output: config files and link to the model file
