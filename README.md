@@ -10,6 +10,11 @@ Using additional functions from duke-dbt-data
 https://github.com/MaciejMazurowski/duke-dbt-data
 
 
+If you use this work, please cite the paper: 
+
+- R Martí, PG del Campo, J Vidal, X Cufí, J Martí, M. Chevalier, and J Freixenet. Lesion Detection in Digital Breast Tomosynthesis: method, experiences and results of participating to the DBTex Challenge. International Workshop on Breast Imaging, 2022, SPIE.
+
+
 ## Files
 - pre_process_rm.ipynb
 Notebook for pre-processing of DBT images to generate 2D slices and bounding boxes to be trained in detectron
